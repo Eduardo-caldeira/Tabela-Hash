@@ -1,6 +1,7 @@
 #ifndef TABELA_HASH_DINAMICA_H_INCLUDED
 #define TABELA_HASH_DINAMICA_H_INCLUDED
 
+// tomanocu
 template<typename tipo>
 struct TabelaH_D {
     tipo dado;
